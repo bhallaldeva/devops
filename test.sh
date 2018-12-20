@@ -2,7 +2,7 @@
 echo "enter file name"
  read file_name
 
- if [ $file_name ]
+ if [ -e $file_name ]
 
  then
 
