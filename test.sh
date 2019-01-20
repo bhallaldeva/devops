@@ -11,4 +11,6 @@ echo "$file_name found"
 else
 echo "$file_name not found"
 fi
+mandir wahi bnega.
+aj hi
 
