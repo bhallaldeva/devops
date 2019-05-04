@@ -18,4 +18,3 @@ hows the josh
 jaiiii hind
  
 aws chala rhe h bhaiya
-qwerjlkmxknskxmsklnx
